@@ -1,3 +1,4 @@
-venv
-vnev/*
-vnev/
+.env
+venv/
+__pycache__/
+.bkit/
