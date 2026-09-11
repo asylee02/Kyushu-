@@ -1,0 +1,41 @@
+{
+  "last_updated": "2026年9月7日 令和",
+  "rows": {
+    "福岡県": {
+      "reservation_start": "ー",
+      "discount_period": "ー",
+      "link": ""
+    },
+    "佐賀県": {
+      "reservation_start": "ー",
+      "discount_period": "10/1～12/25",
+      "link": ""
+    },
+    "長崎県": {
+      "reservation_start": "９月第３週",
+      "discount_period": "10/1～12/25",
+      "link": "https://www.pref.nagasaki.jp/doc/52397.html"
+    },
+    "熊本県": {
+      "reservation_start": "ー",
+      "discount_period": "ー",
+      "link": ""
+    },
+    "大分県": {
+      "reservation_start": "９月下旬",
+      "discount_period": "10/1～12/25",
+      "link": "https://www.pref.oita.jp/soshiki/14180/kyushu-oita.html"
+    },
+    "宮崎県": {
+      "reservation_start": "ー",
+      "discount_period": "ー",
+      "link": ""
+    },
+    "鹿児島県": {
+      "reservation_start": "ー",
+      "discount_period": "ー",
+      "link": ""
+    }
+  },
+  "checked_at": "2026-09-11 10:08 KST"
+}
