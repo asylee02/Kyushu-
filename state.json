@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026年9月7日 令和",
+  "last_updated": "2026年9月11日 令和",
   "rows": {
     "福岡県": {
       "reservation_start": "ー",
@@ -17,9 +17,9 @@
       "link": "https://www.pref.nagasaki.jp/doc/52397.html"
     },
     "熊本県": {
-      "reservation_start": "ー",
-      "discount_period": "ー",
-      "link": ""
+      "reservation_start": "9/15～",
+      "discount_period": "10/1～12/25",
+      "link": "https://www.pref.kumamoto.jp/soshiki/208/279956.html"
     },
     "大分県": {
       "reservation_start": "９月下旬",
@@ -37,5 +37,5 @@
       "link": ""
     }
   },
-  "checked_at": "2026-09-11 10:08 KST"
+  "checked_at": "2026-09-11 15:04 KST"
 }
