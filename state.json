@@ -12,7 +12,7 @@
       "link": "https://www.pref.saga.lg.jp/kiji003121006/index.html"
     },
     "長崎県": {
-      "reservation_start": "➀先行販売（じゃらん・楽天トラベル） ：9/15 ※12月宿泊分は後日販売 ➁宿泊施設への直接予約 ：9/28 ➂旅行会社、 上記２社以外のオンライン予約サイト：9/30",
+      "reservation_start": "➀ オンライン予約サイト （じゃらん・楽天トラベル） ：9/15 ※12月宿泊分は後日販売 ➁宿泊施設への直接予約 ：9/28 ➂旅行会社、 上記２社以外のオンライン予約サイト：9/30",
       "discount_period": "➀10/1～11/30 ※12月宿泊分は後日販売 ➁10/1～12/25 ➂10/1～12/25",
       "link": "https://www.nagasaki-tabinet.com/feature/ouenwari"
     },
@@ -27,9 +27,9 @@
       "link": "https://www.pref.oita.jp/soshiki/14180/kyushu-oita.html"
     },
     "宮崎県": {
-      "reservation_start": "ー",
-      "discount_period": "ー",
-      "link": ""
+      "reservation_start": "オンライン予約サイト （じゃらん・楽天トラベル） ：9/25 宿泊施設への直接予約 ：9/28 旅行会社 ：9/28",
+      "discount_period": "10/1～12/25",
+      "link": "https://www.pref.miyazaki.lg.jp/kanko-suishin/press/2026/09/20260907183135.html"
     },
     "鹿児島県": {
       "reservation_start": "ー",
@@ -37,5 +37,5 @@
       "link": ""
     }
   },
-  "checked_at": "2026-09-15 14:44 KST"
+  "checked_at": "2026-09-15 19:57 KST"
 }
