@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026年9月14日 令和",
+  "last_updated": "2026年9月15日 令和",
   "rows": {
     "福岡県": {
       "reservation_start": "ー",
@@ -14,12 +14,12 @@
     "長崎県": {
       "reservation_start": "➀先行販売（じゃらん・楽天トラベル） ：9/15 ※12月宿泊分は後日販売 ➁宿泊施設への直接予約 ：9/28 ➂旅行会社、 上記２社以外のオンライン予約サイト：9/30",
       "discount_period": "➀10/1～11/30 ※12月宿泊分は後日販売 ➁10/1～12/25 ➂10/1～12/25",
-      "link": "https://www.pref.nagasaki.jp/doc/52397.html"
+      "link": "https://www.nagasaki-tabinet.com/feature/ouenwari"
     },
     "熊本県": {
       "reservation_start": "9/15",
       "discount_period": "10/1～12/25",
-      "link": "https://www.pref.kumamoto.jp/soshiki/208/279956.html"
+      "link": "https://kumamoto-ouenwari.com/index.html"
     },
     "大分県": {
       "reservation_start": "９月下旬",
@@ -37,5 +37,5 @@
       "link": ""
     }
   },
-  "checked_at": "2026-09-14 20:38 KST"
+  "checked_at": "2026-09-15 12:16 KST"
 }
