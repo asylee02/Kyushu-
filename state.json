@@ -22,8 +22,8 @@
       "link": "https://kumamoto-ouenwari.com/index.html"
     },
     "大分県": {
-      "reservation_start": "９月下旬",
-      "discount_period": "10/1～12/25",
+      "reservation_start": "➀オンライン予約サイト：9/25 （じゃらん・楽天トラベル・Yahoo!トラベル・一休.com） ➁旅行会社 ：10/9 ➂宿泊施設への直接予約：10/16",
+      "discount_period": "➀10/1～12/25 ➁10/9～12/25 ➂10/16～12/25",
       "link": "https://www.pref.oita.jp/soshiki/14180/kyushu-oita.html"
     },
     "宮崎県": {
@@ -37,5 +37,5 @@
       "link": ""
     }
   },
-  "checked_at": "2026-09-15 19:57 KST"
+  "checked_at": "2026-09-16 12:12 KST"
 }
