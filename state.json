@@ -1,41 +1,41 @@
 {
-  "last_updated": "2026年9月15日 令和",
+  "last_updated": "2026年9月18日",
   "rows": {
     "福岡県": {
-      "reservation_start": "ー",
-      "discount_period": "ー",
+      "reservation_start": "－",
+      "discount_period": "－",
       "link": ""
     },
     "佐賀県": {
-      "reservation_start": "オンライン予約サイト：9/24 旅行会社 ：10/2",
-      "discount_period": "10/1～12/25",
+      "reservation_start": "予約サイト：9/24 旅行会社：10/2",
+      "discount_period": "10/1～",
       "link": "https://www.pref.saga.lg.jp/kiji003121006/index.html"
     },
     "長崎県": {
-      "reservation_start": "➀ オンライン予約サイト （じゃらん・楽天トラベル） ：9/15 ※12月宿泊分は後日販売 ➁宿泊施設への直接予約 ：9/28 ➂旅行会社、 上記２社以外のオンライン予約サイト：9/30",
-      "discount_period": "➀10/1～11/30 ※12月宿泊分は後日販売 ➁10/1～12/25 ➂10/1～12/25",
+      "reservation_start": "予約サイト ：9/15 宿泊施設：9/28 旅行会社等 ：9/30",
+      "discount_period": "10/1～",
       "link": "https://www.nagasaki-tabinet.com/feature/ouenwari"
     },
     "熊本県": {
-      "reservation_start": "9/15",
-      "discount_period": "10/1～12/25",
+      "reservation_start": "9/15～",
+      "discount_period": "10/1～",
       "link": "https://kumamoto-ouenwari.com/index.html"
     },
     "大分県": {
-      "reservation_start": "➀オンライン予約サイト：9/25 （じゃらん・楽天トラベル・Yahoo!トラベル・一休.com） ➁旅行会社 ：10/9 ➂宿泊施設への直接予約：10/16",
-      "discount_period": "➀10/1～12/25 ➁10/9～12/25 ➂10/16～12/25",
+      "reservation_start": "予約サイト：9/25 旅行会社：10/9 宿泊施設：10/16",
+      "discount_period": "10/1～",
       "link": "https://www.pref.oita.jp/soshiki/14180/kyushu-oita.html"
     },
     "宮崎県": {
-      "reservation_start": "オンライン予約サイト （じゃらん・楽天トラベル） ：9/25 宿泊施設への直接予約 ：9/28 旅行会社 ：9/28",
-      "discount_period": "10/1～12/25",
-      "link": "https://www.pref.miyazaki.lg.jp/kanko-suishin/press/2026/09/20260907183135.html"
+      "reservation_start": "予約サイト：9/25 宿泊施設：9/28 旅行会社：9/28",
+      "discount_period": "10/1～",
+      "link": "https://miyazaki-ouen.jp/"
     },
     "鹿児島県": {
-      "reservation_start": "ー",
-      "discount_period": "ー",
+      "reservation_start": "－",
+      "discount_period": "－",
       "link": ""
     }
   },
-  "checked_at": "2026-09-17 19:52 KST"
+  "checked_at": "2026-09-18 12:03 KST"
 }
