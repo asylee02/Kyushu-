@@ -2,33 +2,33 @@
   "last_updated": "2026年9月18日",
   "rows": {
     "福岡県": {
-      "reservation_start": "－",
-      "discount_period": "－",
-      "link": ""
+      "reservation_start": "9/24",
+      "discount_period": "10/1～12/15",
+      "link": "https://fukuoka-fukkou-wari.jp/"
     },
     "佐賀県": {
-      "reservation_start": "予約サイト：9/24 旅行会社：10/2",
-      "discount_period": "10/1～",
-      "link": "https://www.pref.saga.lg.jp/kiji003121006/index.html"
+      "reservation_start": "予約サイト：9/24 旅行会社：10/2 宿泊施設：10月上旬",
+      "discount_period": "10/1～12/25",
+      "link": "https://saga-ouen.jp/"
     },
     "長崎県": {
       "reservation_start": "予約サイト ：9/15 宿泊施設：9/28 旅行会社等 ：9/30",
-      "discount_period": "10/1～",
-      "link": "https://www.nagasaki-tabinet.com/feature/ouenwari"
+      "discount_period": "10/1～12/25",
+      "link": "https://nagasaki-fukkou-wari.jp/"
     },
     "熊本県": {
-      "reservation_start": "9/15～",
-      "discount_period": "10/1～",
+      "reservation_start": "9/15",
+      "discount_period": "10/1～12/25",
       "link": "https://kumamoto-ouenwari.com/index.html"
     },
     "大分県": {
       "reservation_start": "予約サイト：9/25 旅行会社：10/9 宿泊施設：10/16",
-      "discount_period": "10/1～",
-      "link": "https://www.pref.oita.jp/soshiki/14180/kyushu-oita.html"
+      "discount_period": "10/1～12/25",
+      "link": "https://oita-fukkou-wari.jp/"
     },
     "宮崎県": {
       "reservation_start": "予約サイト：9/25 宿泊施設：9/28 旅行会社：9/28",
-      "discount_period": "10/1～",
+      "discount_period": "10/1～12/25",
       "link": "https://miyazaki-ouen.jp/"
     },
     "鹿児島県": {
@@ -37,5 +37,5 @@
       "link": ""
     }
   },
-  "checked_at": "2026-09-18 14:30 KST"
+  "checked_at": "2026-09-18 19:01 KST"
 }
