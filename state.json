@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026年9月24日",
+  "last_updated": "2026年10月9日",
   "rows": {
     "福岡県": {
       "reservation_start": "9/24",
@@ -7,7 +7,7 @@
       "link": "https://fukuoka-fukkou-wari.jp/"
     },
     "佐賀県": {
-      "reservation_start": "予約サイト：9/24 旅行会社：10/2 宿泊施設：10月上旬",
+      "reservation_start": "予約サイト：9/24 旅行会社：10/2 宿泊施設：10/13",
       "discount_period": "10/1～12/25",
       "link": "https://saga-ouen.jp/"
     },
@@ -32,10 +32,10 @@
       "link": "https://miyazaki-ouen.jp/"
     },
     "鹿児島県": {
-      "reservation_start": "－",
-      "discount_period": "－",
-      "link": ""
+      "reservation_start": "10/14",
+      "discount_period": "10/14～1/31 10/14～2/28 ※2",
+      "link": "https://www.pref.kagoshima.jp/af08/fukko-ouenwari.html"
     }
   },
-  "checked_at": "2026-10-09 13:26 KST"
+  "checked_at": "2026-10-09 15:21 KST"
 }
