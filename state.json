@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026年10月16日",
+  "last_updated": "2026年11月27日",
   "rows": {
     "福岡県": {
       "reservation_start": "9/24",
@@ -17,8 +17,8 @@
       "link": "https://nagasaki-fukkou-wari.jp/"
     },
     "熊本県": {
-      "reservation_start": "9/15",
-      "discount_period": "10/1～12/25",
+      "reservation_start": "第1弾：9/15 第2弾：12/1",
+      "discount_period": "10/1～12/25 1/4～2/21",
       "link": "https://kumamoto-ouenwari.com/index.html"
     },
     "大分県": {
@@ -37,5 +37,5 @@
       "link": "https://fukko-ouenwari.pref.kagoshima.jp"
     }
   },
-  "checked_at": "2026-11-27 04:05 KST"
+  "checked_at": "2026-11-27 15:36 KST"
 }
